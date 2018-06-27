@@ -1,3 +1,2 @@
 Welcome to GitHub !!!
 Triggering Jenkins build job on git commit !!!
-End of file
